@@ -23,9 +23,12 @@ Python · SQLite · Claude (API + Code) · launchd · Make.com · TypeScript whe
 
 ### Find me
 
-- 🎥 TikTok — [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai) (where most of this gets explained)
-- 🌐 Website — [bricksadvisory.com](https://bricksadvisory.com)
+Everything in one place → **[alyssawithai.com](https://alyssawithai.com)**
+
+Or directly:
+- 🎥 TikTok — [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai)
 - 💼 LinkedIn — [Alyssa Clarcq](https://www.linkedin.com/in/alyssaclarcq/)
+- 🧱 Firm — [bricksadvisory.com](https://bricksadvisory.com)
 
 ---
 
