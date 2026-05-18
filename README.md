@@ -1,19 +1,32 @@
-## Alyssa
+# Hi, I'm Alyssa 👋
 
-Building a business in public and documenting what I learn about Claude, AI ops, and operating with as much automation as possible — at [@alyssa.with.ai on TikTok](https://www.tiktok.com/@alyssa.with.ai). Code that comes out of those experiments lands here.
+I'm a CPA running an accounting firm with as much AI and automation as I can build. I share the process — the wins, the broken cron jobs, and the weird stuff that actually works — on [TikTok at @alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai).
+
+This is where the code lives.
+
+---
+
+### What I'm building
+
+An AI-operated business where every department that *can* be automated, is. Bots for content, sales outreach, bookkeeping ops, dashboards, runbooks. Some of it is messy. All of it is real.
 
 ### Public projects
 
-- **[tiktokanalytics](https://github.com/Alyssa-With-AI/tiktokanalytics)** — Local-first TikTok analytics. Replaces the creator studio with a SQLite database you own. Python + Playwright + yt-dlp.
-- **[businessops](https://github.com/Alyssa-With-AI/businessops)** — Early bones of an internal operating system I'm building for myself. Public release in progress.
-- **[claude-mem](https://github.com/Alyssa-With-AI/claude-mem)** — Claude Code plugin (fork of [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)) — auto-captures sessions, compresses with AI, re-injects context.
+- **[claude-mem](https://github.com/Alyssa-With-AI/claude-mem)** — A Claude Code plugin that auto-captures coding sessions, compresses them with AI, and re-injects the relevant context next time. Fork of [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) with my own tweaks.
+- **[businessops](https://github.com/Alyssa-With-AI/businessops)** — Scaffolding for the internal operating system I run my firm on. Slowly opening up the pieces that aren't client-specific.
 
-### Currently building
+More repos coming as I sanitize and extract them.
 
-An AI-operated business where automation runs every department it can. Public progress on TikTok. Code drops here when it's sanitized.
+### Stack I actually use
+
+Python · SQLite · Claude (API + Code) · launchd · Make.com · TypeScript when I have to · Markdown for everything else.
 
 ### Find me
 
-- TikTok: [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai)
-- Website: [bricksadvisory.com](https://bricksadvisory.com)
-- LinkedIn: [Alyssa Clarcq](https://www.linkedin.com/in/alyssaclarcq/)
+- 🎥 TikTok — [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai) (where most of this gets explained)
+- 🌐 Website — [bricksadvisory.com](https://bricksadvisory.com)
+- 💼 LinkedIn — [Alyssa Clarcq](https://www.linkedin.com/in/alyssaclarcq/)
+
+---
+
+> *"The point of automation isn't to do less. It's to spend your time on the part that actually needs you."*
