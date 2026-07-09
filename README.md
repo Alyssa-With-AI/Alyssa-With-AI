@@ -1,35 +1,30 @@
-# Hi, I'm Alyssa 👋
+# Hi, I'm Alyssa Clarcq 👋
 
-I'm a CPA running an accounting firm with as much AI and automation as I can build. I share the process — the wins, the broken cron jobs, and the weird stuff that actually works — on [TikTok at @alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai).
+I'm a CPA, the founder of [Bricks Advisory](https://bricksadvisory.com), and an AI adoption advisor. I build practical, reviewable AI workflows for real operating work—especially where finance, controls, evidence, and human judgment matter.
 
-This is where the code lives.
+**Alyssa With AI** is my creator handle. **Alyssa Clarcq** is the person and master identity. **Bricks Advisory** is the advisory firm.
 
----
+## What I'm building
 
-### What I'm building
+I use AI as an operating layer across research, content, sales, delivery support, project memory, and internal administration. The standard is not “automate everything.” It is to make the source context, review rules, ownership, and handoff visible enough that the workflow can be trusted.
 
-An AI-operated business where every department that *can* be automated, is. Bots for content, sales outreach, bookkeeping ops, dashboards, runbooks. Some of it is messy. All of it is real.
+This account is where I share selected code and practical experiments after removing client-specific or sensitive material.
 
-### Public projects
+## Public projects
 
-- **[claude-mem](https://github.com/Alyssa-With-AI/claude-mem)** — A Claude Code plugin that auto-captures coding sessions, compresses them with AI, and re-injects the relevant context next time. Fork of [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) with my own tweaks.
-- **[businessops](https://github.com/Alyssa-With-AI/businessops)** — Scaffolding for the internal operating system I run my firm on. Slowly opening up the pieces that aren't client-specific.
+- **[claude-mem](https://github.com/Alyssa-With-AI/claude-mem)** — A fork of [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) exploring persistent project memory for Claude Code.
+- **[businessops](https://github.com/Alyssa-With-AI/businessops)** — Selected scaffolding and patterns from the internal operating system used to run my firm.
 
-More repos coming as I sanitize and extract them.
+## Tools I use
 
-### Stack I actually use
+Python · SQLite · Claude · ChatGPT · TypeScript · Make · launchd · Markdown
 
-Python · SQLite · Claude (API + Code) · launchd · Make.com · TypeScript when I have to · Markdown for everything else.
+## Find me
 
-### Find me
+- **Home and current work:** [alyssaclarcq.com](https://alyssaclarcq.com)
+- **Speaking and public webinars:** [alyssaclarcq.com/speaking](https://alyssaclarcq.com/speaking)
+- **TikTok:** [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai)
+- **LinkedIn:** [Alyssa Clarcq](https://www.linkedin.com/in/alyssaclarcq/)
+- **Advisory firm:** [bricksadvisory.com](https://bricksadvisory.com)
 
-Everything in one place → **[alyssawithai.com](https://alyssawithai.com)**
-
-Or directly:
-- 🎥 TikTok — [@alyssa.with.ai](https://www.tiktok.com/@alyssa.with.ai)
-- 💼 LinkedIn — [Alyssa Clarcq](https://www.linkedin.com/in/alyssaclarcq/)
-- 🧱 Firm — [bricksadvisory.com](https://bricksadvisory.com)
-
----
-
-> *"The point of automation isn't to do less. It's to spend your time on the part that actually needs you."*
+> The point of automation is not to remove judgment. It is to protect time for the work that needs it.
